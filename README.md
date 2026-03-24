@@ -35,3 +35,4 @@ Student: Isabella Franco
 
 Indigo successfully cloned the repo.
 
+Oscar successfully cloned the repo
