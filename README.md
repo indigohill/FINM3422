@@ -33,4 +33,5 @@ cd finm3422
 Student: Isabella Franco
 
 
-Student Oscar successfully cloned the repo.
+Indigo successfully cloned the repo.
+
